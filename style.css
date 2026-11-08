@@ -161,3 +161,5 @@ body.scr{overflow:hidden}
 .tc p{font-size:2vh;line-height:1.55;margin-top:1vh}
 .winner{text-align:center;margin-top:3vh;animation:pop .8s 1.2s backwards}
 .winner small{font-size:3vh;color:var(--gold);font-weight:800}.winner h2{font-size:6.5vh}.winner h2 span{font-size:3vh;color:var(--muted)}.winner p{font-size:2.4vh;color:var(--muted)}
+.myproj{display:flex;align-items:center;gap:12px;background:var(--card);border:2px solid;border-radius:16px;padding:10px 14px;margin-bottom:10px}
+.myproj span{font-size:30px}.myproj small{display:block;color:var(--muted);font-size:12px}.myproj b{font-size:18px}
